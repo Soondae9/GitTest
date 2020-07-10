@@ -1,0 +1,22 @@
+
+업로드 			/* C:\Users\user\Documents\SpringBoot\Ex25_FileUpload\bin\main\static\upload 저장되는 경로 */
+
+
+배포하기 - bootJar파일(JSP실행안됨) 
+		   bootWar파일 : 내장톰캣서버 포함  java -jar bootwar파일이름
+		   
+		   Jar파일, War파일 : 외부톰캣서버에 배포
+		   
+		   appach0tomcat 버전 - webapp폴더	
+		   window - show view - other - gradle task - 동작 - 톰캣서버 설치폴더 - build/libs 폴더의 빌드된 파일을 webapps폴더로 복사
+		   cmd창 열어 설치폴더로 이동 , startup. 
+		   localhost:8080/FileUpload/uploadForm                       8080/폴더명/주소
+		   
+		  //데모사이트를 운영할 때
+		  //서버를 어떻게 할 것인가? AWS 1년무료 아마존( 윈도우즈, 리눅스) 게시판
+		  // 배포를 어캐할 것인가
+		   
+		   
+		   gradle task -> 프로젝트 - build -  war - 동작
+		   C:\Users\user\Documents\SpringBoot\Ex25_FileUpload\build\libs 으로 war
+		   	
