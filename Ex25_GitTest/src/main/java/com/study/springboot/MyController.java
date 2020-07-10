@@ -1,7 +1,8 @@
 package com.study.springboot;
 
 public class MyController {
-
+	
+		//수정작업 개발자 A
 		//Git Test 
 		//Git 사용하는 장점
 		//1. 소스 안전 관리
