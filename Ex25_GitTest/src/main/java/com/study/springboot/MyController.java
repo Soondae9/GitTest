@@ -24,5 +24,7 @@ public class MyController {
 			//							|			   ^ merge
 			//							---> branch -- |
 	
-	
+		// 수정 -> commit : 로컬저장소에 저장
+		// push : 서버에 올리기
+		//window-view - Gitstaging 커밋 메세지 작성후 올리기
 }
