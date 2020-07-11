@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>pull 최신화 테스트</h1>
-Test2에서 업데이트했음 수정함 뉴파일을 건드림
+Test2에서 업데이트했음 수정함 nate를 삭제했음
 </body>
 </html>
