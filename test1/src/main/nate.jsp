@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>pull 최신화 테스트</h1>
-Test2에서 업데이트했음 수정함
+Test2에서 업데이트했음
 </body>
 </html>
